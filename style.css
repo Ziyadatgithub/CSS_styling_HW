@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: white;
+    font-size:36px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 50px;
+}
+.title{
+    background-color:#2e354f;
+    width:100%;
+    margin:0 auto;
+}
+.head{
+    width: 40%;
+    margin:0 auto;
+}
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: orangered;
+    margin-top: 60px;
+    width:70%;
+    font-size:24px;
+}
+.h22{
+    width: 35%;
+    margin: 0 auto;
+}
+img{
+    width:805px;
+}
+.imgg{
+    width:35%;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+span{
+    color: orangered;
+    text-decoration: underline;
+}
+bold{
+    font-weight:900;
+}
+p{
+    font-size: 18px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    width:35%;
+    margin:0 auto;
+    padding: 20px;
+}
+.end{
+    background-color:#2e354f;
+    width: 100%;
+    margin: 0 auto;
+}
+.h2div{
+    width:35%;
+    margin: 0 auto;
+}
+.pclass{
+    color: #fff;
+}
+button{
+    color: #fff;
+    background-color: orangered;
+    border: none;
+    padding: 15px 25px;
+}
+button:hover{
+    color:red;
+    background-color:lightcoral;
+}
+.btnclass{
+    color:black;
+    background-color: white;
+}
+.btnclass:hover{
+    background-color: thistle;
+    color:whitesmoke
+}
+.btns{
+    width:35%;
+    margin: 0 auto;
+}
+.h2class{
+    padding-top: 20px;
+}
